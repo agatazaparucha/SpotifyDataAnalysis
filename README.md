@@ -31,7 +31,7 @@ A slicer is also available, allowing users to explore their data for specific ye
 - Step 4 : Create a time and calendar table, connect it with our main data table.
 - Step 5 : Think of possible questions the data might answer - choose correct visualizations and create necessary measures for them.
 
-Here are some DAX expressions, containg most interesting measures.
+Here are some DAX expressions, including the most interesting measures used in the analysis.
         
         Favorite Song per Album = 
         VAR MaxPlays = 
